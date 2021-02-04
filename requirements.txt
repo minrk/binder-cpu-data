@@ -1,0 +1,6 @@
+altair
+matplotlib
+numpy
+pandas
+prometheus-api-client
+seaborn
